@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
         usernameDisplay.textContent = username;
     } else {
         // Redirect back to the login page if no username is found
-        window.location.href = "login.html";
+        window.location.href = "index.html";
     }
 });
 
